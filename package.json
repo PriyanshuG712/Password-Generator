@@ -2,7 +2,6 @@
   "name": "pass",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://priyanshug712.github.io/Password-Generator/",
   "type": "module",
   "scripts": {
     "dev": "vite",
